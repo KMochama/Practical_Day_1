@@ -1,2 +1,2 @@
-# Practical_Day_1
-Data entry, basic Data formatting using Excel and preforming basic calculations. 
+# Basic_Data_Cleaning_Excel
+Data entry, basic Data formatting using Excel, and performing basic calculations. 
